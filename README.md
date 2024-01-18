@@ -8,8 +8,10 @@
 
 
 ### :star2: Welcome to my github profile :star2:
-![woollaf](https://github.com/J-WooHyeok/J-WooHyeok/assets/114277865/72009483-75ac-4d8e-a73a-69a1ebe6baff)
+
 </div>
+<br/>
+<br/>
 <br/>
 
 <div align="center">
@@ -23,7 +25,18 @@
 * 생년월일 <br/> __2001.02.15__ <br/>
 * 소속 <br/> __한림대학교 정보과학대학 소프트웨어학부 / 전공 : 빅데이터 / 부전공 : 콘텐츠IT__ <br/>
 * E-Mail <br/> dhkdwk1519@naver.com <br/>
-* GitHub <br/> https://github.com/J-WooHyeok <br/>
+* GitHub <br/> https://github.com/J-WooHyeok <br/><br/>
+
+> " __달을 향해 쏘아라. 빗맞아도 별이 될테니.__ " <br/>
+> 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다.
+
+<div align="center">
+  
+##  :mortar_board: Activities
+</div>
+
+*2020
+
 
 
 ⬛readme 참고링크⬛
