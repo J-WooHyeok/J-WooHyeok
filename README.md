@@ -7,8 +7,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC1C6,25:FBC9B0,50:C5E1C8,75:C1C6EE,100:C5A6CF&height=200&section=header&text=WooHyeok's%20World&fontColor=6D798C&fontSize=60)
 
 
-## :star2: Welcome to my github profile :star2:
+### :star2: Welcome to my github profile :star2:
 </div>
+<br/>
 <br/>
 <br/>
 
@@ -19,8 +20,11 @@
 
 <br/>
 
-NAME :
-
+* 이름 <br/> __장우혁 Jang Woo Hyeok__ <br/>
+* 생년월일 <br/> __2001.02.15__ <br/>
+* 소속 <br/> __한림대학교 정보과학대학 소프트웨어학부 / 전공 : 빅데이터 / 부전공 : 콘텐츠IT__ <br/>
+* E-Mail <br/> dhkdwk1519@naver.com <br/>
+* GitHub <br/> https://github.com/J-WooHyeok <br/>
 
 
 ⬛readme 참고링크⬛
