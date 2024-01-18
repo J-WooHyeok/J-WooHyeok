@@ -8,9 +8,8 @@
 
 
 ### :star2: Welcome to my github profile :star2:
+![woollaf](https://github.com/J-WooHyeok/J-WooHyeok/assets/114277865/72009483-75ac-4d8e-a73a-69a1ebe6baff)
 </div>
-<br/>
-<br/>
 <br/>
 
 <div align="center">
