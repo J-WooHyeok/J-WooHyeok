@@ -29,6 +29,7 @@
 > " __달을 향해 쏘아라. 빗맞아도 별이 될테니.__ " <br/>
 > 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다.
 
+<br/>
 <div align="center">
   
 ##  :mortar_board: Activities
@@ -54,10 +55,12 @@
 #### *2024* <br/>
 * 제 6대 콘텐츠IT 학생회 'Clear' 홍보국장 <br/>
 
+<br/>
+
 <div align="center">
   
 ## :computer: Major Course
-<div/>
+</div>
 
 #### *2020년도 1학기* <br/>
 * 컴퓨팅사고와 문제해결 <br/>
