@@ -28,8 +28,10 @@
 
 > " __달을 향해 쏘아라. 빗맞아도 별이 될테니.__ " <br/>
 > 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다. <br/><br/>
-
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<div>
+<a href="https://www.instagram.com/wxx._.hyxxk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:dhkdwk1519@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
 <br/>
 <div>
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
