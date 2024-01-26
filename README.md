@@ -22,7 +22,7 @@
 * GitHub <br/> https://github.com/J-WooHyeok <br/><br/>
 
 > " __달을 향해 쏘아라. 빗맞아도 별이 될테니.__ " <br/>
-> 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다. <br/><br/>
+> 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다. <br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwk1519)](https://solved.ac/{handle})
