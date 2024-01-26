@@ -5,7 +5,7 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC1C6,25:FBC9B0,50:C5E1C8,75:C1C6EE,100:C5A6CF&height=200&section=header&text=WooHyeok's%20World&fontColor=6D798C&fontSize=40)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=2000&color=0F007BCF&random=false&width=435&lines=I+am+the+%F0%9F%91%91King%F0%9F%91%91+of+My+World)](https://git.io/typing-svg)
 
 ### :star2: Welcome to my github profile :star2:
 ![woollaf](https://github.com/J-WooHyeok/J-WooHyeok/assets/114277865/c2ec4b27-c722-49f7-9c43-9ab964373a29)
