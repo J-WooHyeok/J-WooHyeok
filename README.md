@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC1C6,25:FBC9B0,50:C5E1C8,75:C1C6EE,100:C5A6CF&height=200&section=header&text=WooHyeok's%20World&fontColor=6D798C&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC1C6,25:FBC9B0,50:C5E1C8,75:C1C6EE,100:C5A6CF&height=100&section=header&text=WooHyeok's%20World&fontColor=6D798C&fontSize=40)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=2000&color=8AB4E8&random=false&width=470&height=70&lines=%F0%9F%8C%9FWelcome+to+my+GitHub+profile%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ![woollaf](https://github.com/J-WooHyeok/J-WooHyeok/assets/114277865/c2ec4b27-c722-49f7-9c43-9ab964373a29)
@@ -24,8 +24,11 @@
 > " __달을 향해 쏘아라. 빗맞아도 별이 될테니.__ " <br/>
 > 도전이 두렵지 않은 예비 AI엔지니어 장우혁 입니다. <br/>
 
+<div>
+  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwk1519)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwk1519)](https://solved.ac/{handle}) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <a href="https://www.instagram.com/wxx._.hyxxk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
