@@ -119,6 +119,14 @@
 * 멀티미디어 개론 <br/>
 * 파이썬 과학 프로그밍 기초 <br/>
 
+#### *2024년도 2학기* <br/>
+* 네트워크보안 <br/>
+* 데이터통신 <br/>
+* 오픈소스SW의 이해 <br/>
+* SW창업전략과 펀딩 <br/>
+* 소프트웨어 특강 <br/>
+* 디지털리터러시1 <br/>
+
 ⬛readme 참고링크⬛
 <br/>
 https://velog.io/@somm/Github-readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0
