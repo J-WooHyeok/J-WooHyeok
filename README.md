@@ -75,7 +75,9 @@
 #### *2024* <br/>
 * 제 6대 콘텐츠IT 학생회 'Clear' 홍보국장 <br/>
 * 한림멘토링 자료구조 멘토 <br/>
+* 한림멘토링 알고리즘 멘토 <br/>
 * 콘텐츠IT 학술동아리 '씨애랑' 부원 <br/>
+* SOFTWARE CODING TEST 2위 <br/>
 
 <br/>
 
@@ -135,21 +137,3 @@ https://junia3.github.io/blog/githubreadme
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:C5A6CF,25:C1C6EE,50:C5E1C8,75:FBC9B0,100:EEC1C6&height=40&section=footer&text=&fontSize=0&width="100%")
 
-
-
-
-
-<!--
-**J-WooHyeok/J-WooHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
