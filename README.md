@@ -77,7 +77,7 @@
 * 한림멘토링 자료구조 멘토 <br/>
 * 한림멘토링 알고리즘 멘토 <br/>
 * 콘텐츠IT 학술동아리 '씨애랑' 부원 <br/>
-* SOFTWARE CODING TEST 2위 <br/>
+* SOFTWARE CODING TEST 2위👑 <br/>
 
 <br/>
 
