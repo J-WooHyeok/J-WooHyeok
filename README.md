@@ -25,10 +25,6 @@
 > 도전이 두렵지 않은 예비 보안 전문가 장우혁 입니다. <br/>
 
 <div>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwk1519)](https://solved.ac/{handle}) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <a href="https://www.instagram.com/wxx._.hyxxk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -39,15 +35,12 @@
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=ghidra&logoColor=white"/>
+<img src="https://img.shields.io/badge/BurpSuite-4479A1?style=flat-square&logo=burpsuite&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -135,11 +128,12 @@
 #### *2025년도 1학기* <br/>
 * 화이트햇 스쿨 3기
 
-⬛readme 참고링크⬛
-<br/>
-https://velog.io/@somm/Github-readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0
-<br/>
-https://junia3.github.io/blog/githubreadme
+#### *2025년도 2학기* <br/>
+* 시스템프로그래밍 <br/>
+* 임베디드시스템 <br/>
+* 소프트웨어 캡스톤 디자인 <br/>
+* 오픈소스 하드웨어 응용 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:C5A6CF,25:C1C6EE,50:C5E1C8,75:FBC9B0,100:EEC1C6&height=40&section=footer&text=&fontSize=0&width="100%")
+
+
 
