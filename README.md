@@ -77,11 +77,12 @@
 * 화이트햇 스쿨 3기(03/09~)
 
 #### *2026* <br/>
-* ICT인턴십 인턴 < (주)코어시큐리티 >(03/01~06/30)
+* ICT인턴십 인턴 <(주)코어시큐리티>(03/01~06/30)
 <br/>
 </details>
 
 <br/>
+
 <div align="center">
   
 ## :computer: Major Course
@@ -90,7 +91,7 @@
 <details>
   <summary><b>2020 ~ 2025</b></summary>
   
-  #### *2020년도 1학기* <br/>
+#### *2020년도 1학기* <br/>
 * 컴퓨팅사고와 문제해결 <br/>
 * 이산구조론 <br/>
 * 자바프로그래밍1 <br/>
@@ -144,8 +145,32 @@
 
 </details>
 
+<div align="center">
+  
+## :lock: Security Training
+</div>
+
+#### *[KISA 실전형 사이버 훈련장 (Security Gym)](https://academy.kisa.or.kr/)* <br/>
+
+<details>
+  <summary>침해사고 대응훈련</summary>
+  
+* YARA기반 정규 표현식 활용 <br/>
+* 리버스코드 엔지니어링 <br/>
+* 실시간 공격 훈련 <br/>
+</details>
+
+<details>
+  <summary>정보보호제품군 실습훈련</summary>
+  
+* 방화벽과 웹애플리케이션 방화벽 <br/>
+</details>
 
 
 
-
-
+<!--   버그헌팅 실습훈련은 수업 듣고 작성하기
+<details>
+  <summary><b>버그헌팅 실습훈련</b></summary>
+  
+</details>
+ -->
